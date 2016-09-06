@@ -9,8 +9,8 @@ import logging
 import signal
 import sys
 
-optionA = "Blue"
-optionB = "Green"
+optionA = "Cool"
+optionB = "Hot"
 
 name = optionA + " VS " + optionB
 
